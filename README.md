@@ -13,7 +13,9 @@ This project was performed in three steps;
 
 #### Data Engineering
 
-Firstly, historical CSV records were inspected and and ERD of the tables were sketched out, I utilised [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com) for this purpose.
+Firstly, historical CSV records were inspected and and ERD of the tables were sketched out, I utilised [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com) for this purpose and below is the ERD of the historical CSVs.
+
+https://github.com/Samravp/SQL_Challenge/blob/main/EmployeeSQL/Data%20Engineering/QuickDBD-Data%20Modelling%20-%20Pewlett%20Hackard%20Employee%20Database.svg
 
 I was able to initialise the tables in PostgreSQL by exporting the information and the SQL query from quickdatabasediagrams.com.
 
