@@ -15,7 +15,8 @@ This project was performed in three steps;
 
 Firstly, historical CSV records were inspected and and ERD of the tables were sketched out, I utilised [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com) for this purpose and below is the ERD of the historical CSVs.
 
-![QuickDBD-Data Modelling - Pewlett Hackard Employee Database](https://user-images.githubusercontent.com/85004202/135745684-ac27005b-1fbe-4ebc-ae09-4d51136037e2.PNG)
+<img width="860" alt="Screen Shot 2021-10-03 at 19 17 29" src="https://user-images.githubusercontent.com/85004202/135745726-ba049f61-72c9-4716-ae90-bcf64c947ca2.png">
+
 
 I was able to initialise the tables in PostgreSQL by exporting the information and the SQL query from quickdatabasediagrams.com.
 
