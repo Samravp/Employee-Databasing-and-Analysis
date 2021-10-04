@@ -11,7 +11,7 @@ This project was performed in three steps;
 3. Data Visualisation.
 
 
-#### Data Engineering
+## Data Engineering
 
 Firstly, historical CSV records were inspected and and ERD of the tables were sketched out, I utilised [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com) for this purpose and below is the ERD of the historical CSVs.
 
@@ -20,7 +20,7 @@ Firstly, historical CSV records were inspected and and ERD of the tables were sk
 
 I was able to initialise the tables in PostgreSQL by exporting the information and the SQL query from quickdatabasediagrams.com.
 
-#### Data Analysis
+## Data Analysis
 
 After imported the CSV files into the relavant tables in the database, the following queries were completed;
 
